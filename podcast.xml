@@ -5,7 +5,7 @@
     <description>Daily Formula 1 news updates covering race analysis, driver news, and team strategies. The fastest F1 podcast on air - new episodes every morning! 🏎️</description>
     <link>https://dgriggs1988-dotcom.github.io/horsepower-podcast-rss</link>
     <language>en</language>
-    <itunes:image href="https://via.placeholder.com/1400x1400.png?text=Horsepower+F1"/>
+    <itunes:image href="https://dgriggs1988-dotcom.github.io/horsepower-podcast-rss/cover.jpg"/>
     <itunes:category text="Sports">
       <itunes:category text="Motorsport"/>
     </itunes:category>
